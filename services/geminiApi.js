@@ -1,7 +1,7 @@
 // Gemini API entegrasyon servisi
 // Google Gemini API Key'inizi burada kullanabilirsiniz
 
-const GEMINI_API_KEY = 'AIzaSyCV1DB59RBCcLvgRklIC-oxh6LolYCcyRk';
+const GEMINI_API_KEY = '';
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 /**
